@@ -89,15 +89,47 @@ to open Markdown preview.
 
 ---
 
-# Mobile Viewing
+# To view the info book on...
 
-You can view the file using:
+# Android
 
-- GitHub mobile app
-- Markdown reader apps
-- Text editors
+## View The Book
+
+1. Download:
+
+`SAB Info Book.md`
+
+2. Open your Files app.
+3. Tap the file.
+4. Choose:
+
+- Notes app
+- Text editor
+- Markdown reader
+- Any document viewer
 
 ---
+
+# iPhone
+
+## View The Book
+
+1. Download the file.
+2. Open the Files app.
+3. Tap:
+
+`SAB Info Book.md`
+
+4. Read it directly or copy it into Apple Notes.
+
+---
+# Disclaimer
+
+This is a community-made SAB reference.
+
+Information may become outdated or incorrect after updates.
+
+Not affiliated with the official SAB development team.
 
 # File Structure
 
